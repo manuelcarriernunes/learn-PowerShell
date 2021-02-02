@@ -1,6 +1,6 @@
 <#
 Folder abc doesn't exist. Thus, 'Get-ChildItem abc'
-- should display an error message.
+- should print an error.
 - shouldn't terminate the script's execution; line 7 should execute.
 #>
 Get-ChildItem abc
