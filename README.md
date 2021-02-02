@@ -1,8 +1,8 @@
 # Non-terminating errors
 
-- open [non-terminating-error](non-terminating-error.ps1) to read
-the script's comments
-- run the script in powershell:
+- read [non-terminating-error.ps1](non-terminating-error.ps1)'s
+comments
+- run the script
 ```powershell
 .\non-terminating-error.ps1
 ```
