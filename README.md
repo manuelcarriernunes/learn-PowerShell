@@ -1,4 +1,4 @@
-# non-terminating errors
+# Non-terminating errors
 
 - open [non-terminating-error](non-terminating-error.ps1) to read
 the script's comments
