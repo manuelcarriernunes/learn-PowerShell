@@ -20,6 +20,11 @@ shows how to define an advanced function using the CmdletBinding attribute.
 - [Parameter-attribute-advanced-function.ps1](advanced-functions/Parameter-attribute-advanced-function.ps1)
 shows how to define an advanced function using the Parameter attribute
 
-[mandatory-parameter.ps1](advanced-functions/mandatory-parameter.ps1) shows how the mandatory argument to the parameter attribute is used.
+# Parameter attribute
 
-[parameter-set.ps1](advanced-functions/parameter-set.ps1) shows how to define parameter sets.
+The Parameter attribute is the use of the \[Parameter(...)\] syntax on a function
+parameter to express contraints on that parameter. Have a look at the following
+files for different ways of using the Parameter attribute syntax.
+
+- [mandatory-parameter.ps1](advanced-functions/mandatory-parameter.ps1) shows how the mandatory argument to the parameter attribute is used.
+- [parameter-set.ps1](advanced-functions/parameter-set.ps1) shows how to define parameter sets.
